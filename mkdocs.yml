@@ -1,11 +1,11 @@
 site_name: 'Forest Carbon Codefest ESIIL'
 site_description: 'FCC 2024'
 site_author: Tyler McIntosh
-site_url: https://cu-esiil.github.io/FCC_Group_3
+site_url: https://cu-esiil.github.io/FCC24_Group_3
 
 # Repository
-repo_name: FCC_Group_3
-repo_url: https://github.com/CU-ESIIL/FCC_Group_3
+repo_name: FCC24_Group_3
+repo_url: https://github.com/CU-ESIIL/FCC24_Group_3
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
