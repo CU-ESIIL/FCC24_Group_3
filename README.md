@@ -11,7 +11,7 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 
 ## Group Members
 - Member 1: Asha Paudel
-- Member 2: Brief description
+- Member 2: Jiaming Lu - Postdoctoral Researcher at University of Utah
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
 
