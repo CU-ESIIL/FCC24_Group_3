@@ -2,8 +2,18 @@
 
 Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
-## Our Project
-[Provide a brief overview of your project here.
+## Project Question 
+
+* What is the impact of different fuel treatments in terms of carbon, a Colorado case study with Cameron Peak Fire (and potentially other CO fires)
+
+### Desired Impact
+
+### Expected Data Usage 
+* Show gaps in data availability- what other data would be really valuable 
+* Importance of any and all fuel treatments 
+* Longer term find areas where fuel reduction treatments would have the most need 
+* Recommendation for management + policy Where are we allocating our limtied money 
+
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
