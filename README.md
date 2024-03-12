@@ -7,12 +7,18 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 * What is the impact of different fuel treatments in terms of carbon, a Colorado case study with Cameron Peak Fire (and potentially other CO fires)
 
 ### Desired Impact
-
-### Expected Data Usage 
 * Show gaps in data availability- what other data would be really valuable 
 * Importance of any and all fuel treatments 
 * Longer term find areas where fuel reduction treatments would have the most need 
-* Recommendation for management + policy Where are we allocating our limtied money 
+* Recommendation for management + policy Where are we allocating our limited money 
+
+### Expected Data Usage 
+*  data for treatment, carbon changes over time, where fixes occurred
+* FIA 
+* GEDI
+* Landfire 
+* fire burn polygons 
+* fire treatment 
 
 
 ## Documentation
