@@ -26,7 +26,7 @@ Welcome to the **[Where's the Money?]** repository, an integral part of ESIIL an
 
 
 ## Group Members
-- Member 1: Asha Paudel
+- Member 1: Asha Paudel, I am from Nepal.It's great to be here.
 - Member 2: Jiaming Lu - Postdoctoral Researcher at University of Utah
 - Member 3: Tatum VanHawkins
 - Member 4: Martha Morrissey 
