@@ -1,6 +1,6 @@
 # Team 3!
 
-Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
+Welcome to the **[Team 3]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
 ## Project Question 
 
@@ -26,7 +26,7 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 
 
 ## Group Members
-- Member 1: Asha Paudel
+- Member 1: Asha Paudel, I am from Nepal.It's great to be here.
 - Member 2: Jiaming Lu - Postdoctoral Researcher at University of Utah
 - Member 3: Tatum VanHawkins
 - Member 4: Martha Morrissey 
