@@ -13,6 +13,7 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 - Member 1: Asha Paudel
 - Member 2: Jiaming Lu - Postdoctoral Researcher at University of Utah
 - Member 3: Tatum VanHawkins
+- Member 4: Martha Morrissey 
 - [Link to more detailed bios or profiles if available and desired.]
 
 ## Code Repository Structure
