@@ -1,6 +1,6 @@
 # Team 3!
 
-Welcome to the **[Team 3]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
+Welcome to the **[Where's the Money?]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
 
 ## Project Question 
 
