@@ -26,9 +26,9 @@ Elevation: Montane (1662-2838) m asl
 Slope 0-40% 
 
 ## Analysis and Results ##
-Biomass: Chloris 2003-2019 Product 
-Growth Potential
-Spatial Pattern of Disturbance
+1) Biomass: Chloris 2003-2019 Product 
+2) Growth Potential
+3) Spatial Pattern of Disturbance
 
 
 ## Documentation
