@@ -36,7 +36,7 @@ Our main focus to first quantify the potential biomass growth area, and the area
 
 
 ## Group Members
-- Member 1: Asha Paudel, I am from Nepal.It's great to be here.
+- Member 1: Asha Paudel, I am a Nepalese. Currently, I work as a Data Scientist at NextEra Energy Company based at Juno Beach in Florida.
 - Member 2: Jiaming Lu - Postdoctoral Researcher at University of Utah
 - Member 3: Tatum VanHawkins
 - Member 4: Martha Morrissey 
