@@ -1,12 +1,8 @@
-# Team 3 
-
+# Team 3
 ## Management priority areas in response to biomass pattern driven by various disturbances
 
-
-Welcome to the **[Where's the Money?]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
-
 **Motivation of the Project**
-Current Biomass pattern resulted by synergistic effect of changing ecological processes induced by rapid climate change and anthropogenic activities needs broad scale management activities to create a safer and sustianable forest. In case of Southern Rocky Mountain Ecoregion where complex mountainous topography makes management activities very challenging, it is important to identify those areas that need management versus where it is fessible for management activities.
+Current Biomass pattern resulted by synergistic effect of changing ecological processes induced by rapid climate change and anthropogenic activities needs broad scale management activities to create a safer and sustianable forest. In case of Southern Rocky Mountain Ecoregion, where complex mountainous topography makes management activities very challenging, it is important to identify those areas that need management versus where it is fessible for management activities.
 
 Our main focus to first quantify the potential biomass growth area, and the area with extreme disturbace impacts including insect and fire and then identify areas that requirement management versus where it is fessible to do so given the geographic challenges, i.e., slope and elevation.
 
