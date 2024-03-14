@@ -1,4 +1,10 @@
 # Team 3
+## Group Members
+- Member 1: Asha Paudel, I am a Nepalese. Currently, I work as a Data Scientist at NextEra Energy Company based at Juno Beach in Florida.
+- Member 2: Jiaming Lu - Postdoctoral Researcher at University of Utah
+- Member 3: Tatum VanHawkins
+- Member 4: Martha Morrissey 
+- [Link to more detailed bios or profiles if available and desired.]
 ## Management priority areas in response to biomass pattern driven by various disturbances
 
 **Motivation of the Project**
@@ -23,14 +29,6 @@ Slope 0-40%
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
-
-
-## Group Members
-- Member 1: Asha Paudel, I am a Nepalese. Currently, I work as a Data Scientist at NextEra Energy Company based at Juno Beach in Florida.
-- Member 2: Jiaming Lu - Postdoctoral Researcher at University of Utah
-- Member 3: Tatum VanHawkins
-- Member 4: Martha Morrissey 
-- [Link to more detailed bios or profiles if available and desired.]
 
 ## Code Repository Structure
 - **Data Processing**: Scripts for cleaning, merging, and managing datasets.
