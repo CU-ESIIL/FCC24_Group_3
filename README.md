@@ -1,6 +1,6 @@
 # Team 3 
 
-**Management priority areas in response to biomass pattern driven by various disturbances**
+## Management priority areas in response to biomass pattern driven by various disturbances
 
 
 Welcome to the **[Where's the Money?]** repository, an integral part of ESIIL and Earth Lab's Forest Carbon Codefest. This repository is the central hub for our team, encompassing our project overview, team member information, codebase, and more...
