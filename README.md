@@ -10,22 +10,16 @@ Our main focus to first quantify the potential biomass growth area, and the area
 
 **To quantify and understand the high management priority areas based on current biomass pattern and topographic factors in the Southern Rocky Mountain Ecoregion.**
 
-*Main variables and Data Source*
+**Main variables and Data Source**
+Biomass- Chloris Biomass
+Growth Potential -Forest Inventory Analysis, FIA
+Disturbance (wildfire and insect) over 50 acres occurring between 1999-2022: Disturbance Stack, Landfire
+Management for fuels reduction over 40 acres including: Thinning, Harvest, Clearcut, Prescribed Fire, Mastication and other Mechanical: LandFire - Management 
+Topographic Factors: SRTM 
+Elevation: Montane (1662-2838) m asl 
+Slope 0-40% 
 
-### Desired Impact
-* Show gaps in data availability- what other data would be really valuable 
-* Importance of any and all fuel treatments 
-* Longer term find areas where fuel reduction treatments would have the most need 
-* Recommendation for management + policy Where are we allocating our limited money 
-
-### Expected Data Usage 
-*  data for treatment, carbon changes over time, where fixes occurred
-* FIA 
-* GEDI
-* Landfire 
-* fire burn polygons 
-* fire treatment 
-
+**Analysis and Results**
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
