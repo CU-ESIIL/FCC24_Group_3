@@ -25,7 +25,11 @@ Topographic Factors: SRTM
 Elevation: Montane (1662-2838) m asl 
 Slope 0-40% 
 
-**Analysis and Results**
+##Analysis and Results##
+Biomass: Chloris 2003-2019 Product 
+Growth Potential
+Spatial Pattern of Disturbance
+
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
