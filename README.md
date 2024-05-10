@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/764823396.svg)](https://zenodo.org/doi/10.5281/zenodo.11168321)
+
 # Team 3
 ## Group Members Introduction
 - Member 1: Asha Paudel, PhD Geoscience. I am a Nepalese. Currently, I work as a Data Scientist at NextEra Energy Company based at Juno Beach in Florida.
